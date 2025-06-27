@@ -80,3 +80,16 @@ PART 7: CLASSIFICATION WITH LOGISTIC REGRESSION
   - CONFUSION MATRIX
   - PRECISION and RECALL
   - F1-SCORE (especially valuable in imbalanced datasets)
+
+------------------------------------------------------------
+PART 8: FOREST FIRES DATA ANALYSIS
+------------------------------------------------------------
+
+DATA:
+
+This collection of regression exercises was built primarily using the CALIFORNIA HOUSING dataset, exploring relationships between housing prices and factors such as median income, house age, and population density. These exercises provided a hands-on foundation in SIMPLE and MULTIPLE LINEAR REGRESSION, MODEL DIAGNOSTICS, INFERENCE, and REGULARIZATION TECHNIQUES (Ridge, Lasso, Elastic Net).
+
+The final project applied these concepts to a real-world classification problem using the FOREST FIRES dataset from Portugal. The goal was to model the likelihood of fire occurrence based on environmental conditions such as temperature, humidity, wind, and dryness indexes (DMC, DC, FFMC).
+
+Forest Fires dataset source:  
+https://archive.ics.uci.edu/ml/datasets/forest+fires
